@@ -1,4 +1,4 @@
-import * from "./style"
+import { Container, Form, UserCredentials, InputCredentials, LoginButton, MailIcon, LockIcon, HaveAccount, SpanContext } from "./style"
 import { useState } from "react"
 import { Link } from "react-router-dom"
 import { auth } from "../../services/firebaseConfig";
